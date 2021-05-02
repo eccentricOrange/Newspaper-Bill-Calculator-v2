@@ -71,7 +71,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{2C19368D-94E2-4612-9D1E-F45BF1FDC325}</Property>
-				<Property Name="Bld_version.build" Type="Int">23</Property>
+				<Property Name="Bld_version.build" Type="Int">24</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">npbc.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/builds/NBPC Main App/npbc.exe</Property>
@@ -114,7 +114,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D765815E-2D23-4F24-A99F-E5A7654685CA}</Property>
-				<Property Name="Bld_version.build" Type="Int">23</Property>
+				<Property Name="Bld_version.build" Type="Int">24</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">npbc-setup.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/builds/NPBC Setup/npbc-setup.exe</Property>
@@ -197,7 +197,7 @@
 				<Property Name="INST_buildSpecName" Type="Str">NPBC Installer</Property>
 				<Property Name="INST_defaultDir" Type="Str">{38AAA377-6C86-4D49-A78D-8140CD80F44F}</Property>
 				<Property Name="INST_productName" Type="Str">Newspaper Bill Calculator</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.25</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.26</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">15008029</Property>
 				<Property Name="MSI_arpCompany" Type="Str">Anuj Verma</Property>
