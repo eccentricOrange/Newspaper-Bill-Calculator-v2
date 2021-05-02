@@ -197,7 +197,7 @@
 				<Property Name="INST_buildSpecName" Type="Str">NPBC Installer</Property>
 				<Property Name="INST_defaultDir" Type="Str">{38AAA377-6C86-4D49-A78D-8140CD80F44F}</Property>
 				<Property Name="INST_productName" Type="Str">Newspaper Bill Calculator</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.24</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.25</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">15008029</Property>
 				<Property Name="MSI_arpCompany" Type="Str">Anuj Verma</Property>
